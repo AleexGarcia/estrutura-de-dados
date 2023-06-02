@@ -7,8 +7,9 @@ public class Main {
 		ml.add("Augusto");
 		ml.add("Garcia");
 		System.out.println(ml);
-		System.out.println(ml.get(1));
+		System.out.println(ml.get(10));
 		ml.remove(1);
 		System.out.println(ml);
+		
 	}
 }
